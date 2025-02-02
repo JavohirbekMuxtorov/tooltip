@@ -37,7 +37,7 @@ class SelectionTooltip:
     
     def load_qa_from_url(self):
         try:
-            url = "https://850.uz/download/answers.txt"
+            url = "https://raw.githubusercontent.com/JavohirbekMuxtorov/tooltip/refs/heads/main/answer.txt"
             response = urllib.request.urlopen(url)
             data = response.read().decode('utf-8')
             
