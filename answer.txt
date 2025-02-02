@@ -22,7 +22,7 @@ Algoritmlar
 ====
 Matematika
 ++++
-"Axborot" va "Ma'lumot" tushunchalari bir biridan nimasi bilan farq qiladi?
+"Axborot" va "Ma'lumot" A bir biridan nimasi bilan farq qiladi?
 ====
 #Texnika vositalari yordamida qabul qilish, saqlash, uzatish, qidirish va ishlov berish mumkin bo'lgan shakliga keltirilgan har qaday axborotni "Ma'lumot" deb atasak. "Axborot" bu axborotni tasavvur etishning so'z, matn tasvir, raqamli ma'lumotlar, grafik va jadvallar  orqali ifodalangan shakli.
 ====
