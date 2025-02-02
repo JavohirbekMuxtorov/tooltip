@@ -1,8 +1,16 @@
-
-"Axborot" atamasi qaysi tildan olingan?
+Axborot atamasi qaysi tildan olingan?
+====
 #lotin tilidan
-++++
-"Axborot -bu materiya emas, energiya emas, bu axborot" ushbu so'zlarning muallifi qaysi fanga asos solgan?
+====
+Arab tilidan
+====
+Rus tilidan
+====
+Ingliz tilidan
+
++++++
+
+"Axborot - bu materiya emas, energiya emas, bu axborot" ushbu so'zlarning muallifi qaysi fanga asos solgan?
 ====
 #Kibernetika fanining
 ====
@@ -11,7 +19,9 @@ Elektronika fanining
 Dasturlash fanining
 ====
 Algoritmlar fanining
-++++
+
++++++
+
 Axborot va ma'lumot tushunchalari qaysi fanning asosiy tushunchalari hisoblanadi?
 ====
 #Informatika
@@ -21,78 +31,94 @@ Dasturlash
 Algoritmlar
 ====
 Matematika
-++++
-"Axborot" va "Ma'lumot" A bir biridan nimasi bilan farq qiladi?
+
++++++
+
+"Axborot" va "Ma'lumot" tushunchalari bir-biridan nimasi bilan farq qiladi?
 ====
-#Texnika vositalari yordamida qabul qilish, saqlash, uzatish, qidirish va ishlov berish mumkin bo'lgan shakliga keltirilgan har qaday axborotni "Ma'lumot" deb atasak. "Axborot" bu axborotni tasavvur etishning so'z, matn tasvir, raqamli ma'lumotlar, grafik va jadvallar  orqali ifodalangan shakli.
+#Texnika vositalari yordamida qabul qilish, saqlash, uzatish, qidirish va ishlov berish mumkin bo'lgan shakliga keltirilgan har qanday axborotni "Ma'lumot" deb atasak. "Axborot" bu axborotni tasavvur etishning so'z, matn, tasvir, raqamli ma'lumotlar, grafik va jadvallar orqali ifodalangan shakli.
 ====
-Ikkisi ham ma'no jihatdan bir hil
+Ikkisi ham ma'no jihatdan bir xil
 ====
 Axborotlar ma'lumotlar jamlanmasi hisoblanadi 
 ====
 Ma'lumotlar jamlanmasi axborot deyiladi
-++++
-"Axborot komunikatsiyasi" so'zining ma'nosi nima?
+
++++++
+
+"Axborot kommunikatsiyasi" so'zining ma'nosi nima?
 ====
-#Malumotlarni axborot manbasidan foyalanuvchiga uzatilishini taminlovchi yo'llar va jarayonlar
+#Ma'lumotlarni axborot manbasidan foydalanuvchiga uzatilishini ta'minlovchi yo'llar va jarayonlar
 ====
-olingan axborot yordamida yaratilgan obrazning real obyekt, jarayon, hodisalarga mosligining malum darajasi
+Olingan axborot yordamida yaratilgan obrazning real obyekt, jarayon, hodisalarga mosligining ma'lum darajasi
 ====
-Axborotni ma'lumotga aylanishi uchun ketadigan vaqt
+Axborotni ma'lumotga aylantirish uchun ketadigan vaqt
 ====
 Axborotni boyitishga ketadigan vaqt
-++++
+
++++++
+
 "Axborot adekvatligi" so'zining ma'nosi nima?
 ====
-#olingan axborot yordamida yaratilgan obrazning real obyekt, jarayon, hodisalarga mosligining malum darajasi
+#Olingan axborot yordamida yaratilgan obrazning real obyekt, jarayon, hodisalarga mosligining ma'lum darajasi
 ====
-Malumotlarni axborot manbasidan foyalanuvchiga uzatilishini taminlovchi yo'llar va jarayonlar
+Ma'lumotlarni axborot manbasidan foydalanuvchiga uzatilishini ta'minlovchi yo'llar va jarayonlar
 ====
 Axborotni ma'lumotga aylanishi uchun ketadigan vaqt
 ====
 Axborotni boyitishga ketadigan vaqt
-++++
-Nuqtalar o'rnini to'ldiring. Agar, malumot obyektlar bo'yicha noaniqlikni to'ldirsa, unda u ... aylanadi.
+
++++++
+
+Nuqtalar o‘rnini to‘ldiring. Agar, ma'lumot obyektlar bo‘yicha noaniqlikni to‘ldirsa, unda u ... aylanadi.
 ====
 #Axborotga
 ====
 Noaniq ma'lumotga
 ====
-Qayta ko'rib chiqiladigan ma'lumotga 
+Qayta ko‘rib chiqiladigan ma'lumotga 
 ====
-to'liqsiz ma'lumotga
-++++
-Axborotni adektivligini uchta shaklda ifodalash mumkun ular qaysilar?
+To‘liqsiz ma'lumotga
+
++++++
+
+Axborotni adektivligini uchta shaklda ifodalash mumkin, ular qaysilar?
 ====
-#semantik, sintaktik, pragmatik
+#Semantik, sintaktik, pragmatik
 ====
-manoli va foydalanuvchanlik
+Manoli va foydalanuvchanlik
 ====
-axborotni o'zlashtirish bosqichi, axborotni tayyorlash bosqichi, axborotni ishlov berish bosqichi 
+Axborotni o‘zlashtirish bosqichi, axborotni tayyorlash bosqichi, axborotni ishlov berish bosqichi 
 ====
-axborotni aks ettirish va tasir etish bosqichi 
-++++
+Axborotni aks ettirish va ta'sir etish bosqichi
+
++++++
+
 "Tasir etish bosqichi" qay hollarda ishlatiladi?
 ====
-#axborotni boshqarish tizimiga zarur o'zgarishlarni kiritish uchun
+#Axborotni boshqarish tizimiga zarur o‘zgarishlarni kiritish uchun
 ====
-normallashtirish, analog-raqamli o'zgartirish uchun
+Normallashtirish, analog-raqamli o‘zgartirish uchun
 ====
-shifrlash amalini bajarish uchun 
+Shifrlash amalini bajarish uchun 
 ====
-axborotni bir joydan ikkinchi joyga uzatish uchun
-++++
-Axborotdagi ma'lumotlar hajmi qanday o'lchov birligi hisoblanadi?
+Axborotni bir joydan ikkinchi joyga uzatish uchun
+
++++++
+
+Axborotdagi ma'lumotlar hajmi qanday o‘lchov birligi hisoblanadi?
 ====
-#bu axborotdagi simvollar soni bilan o'lchanadi
+#Bu axborotdagi simvollar soni bilan o‘lchanadi
 ====
-axborotni o'lchash uchun ishlatiladi
+Axborotni o‘lchash uchun ishlatiladi
 ====
-axborot miqdori
+Axborot miqdori
 ====
-axborot koifisiyenti
-++++
-Ikkilik sanoq tizimidagi ushbu 11010111 ikkilik kodning ma'lumotlar hajmi necha Bitga teng?
+Axborot koeffitsiyenti
+
++++++
+
+Ikkilik sanoq tizimidagi ushbu 11010111 ikkilik kodning ma'lumotlar hajmi necha bitga teng?
 ====
 #8 bit
 ====
@@ -101,8 +127,10 @@ Ikkilik sanoq tizimidagi ushbu 11010111 ikkilik kodning ma'lumotlar hajmi necha 
 16 bit
 ====
 2 bit
-++++
-O'rinsiz sanoq tizimiga qanday sanoq tizimi misol bo'ladi?
+
++++++
+
+O‘rinsiz sanoq tizimiga qanday sanoq tizimi misol bo‘ladi?
 ====
 #Rim sanoq tizimi
 ====
@@ -111,784 +139,3 @@ Yunon sanoq tizimi
 Grek sanoq tizimi
 ====
 Fors sanoq tizimi
-++++
-Rim sanoq sistemasida 100 soni qanday belgilanadi?
-====
-#C
-====
-L
-====
-X
-====
-V
-++++
-Rim sanoq sistemasida 267 soni qanday belgilanadi?
-====
-#CCLXLVII
-====
-LLCXVI
-====
-XXLLC
-====
-CCLXV
-++++
-Qasi sanoq tizimida har bir harf bir hil sonni ifodalaydi?
-====
-#Rim sanoq tizimi
-====
-Kiril sanoq tizimi
-====
-Lotin sanoq tizimi
-====
-O'nli sanoq tizimi
-++++
-Mavjud sanoq tizimlarini shartli ravishta 2ta sanoq tizimiga ajratish mumkun ular qaysilar?
-====
-#O'rinli va o'rinsiz
-====
-inyersial va noinyersial
-====
-sematik va sintaktik
-====
-pragmatik va inyersial
-++++
-Barcha o'nli sanoq tizimimida qaysi sonlar mavjud?
-====
-#0 va 1
-====
-1 va 2
-====
-0 va 2
-====
-2 va 3
-++++
-4 lik sanoq sisitemasida 9 soni nechga teng?
-====
-#21
-====
-13
-====
-14
-====
-17
-++++
-2 lik sanoq sisitemasida 10 soni nechga teng?
-====
-#1010
-====
-1001
-====
-1100
-====
-1000
-++++
-Ikkilik va sakkizlik sanoq tizimlarida qo'shish qaysi sanoq tizimi kabi bajariladi?
-====
-#10 lik
-====
-9 lik
-====
-16 lik
-====
-7 lik
-++++
-Nuqtalar o'rniga mos so'zlarni topib to'ldiring. EXM da operatsiyalar bajarish uchun sonlar …. kodlari bilan kodlanadi.
-====
-#mahsus mashina
-====
-ihtiyoriy son
-====
-maxsus tanlab olingan algoritm
-====
-puxta o'ylangan algoritm
-++++
-Qanday sonlarni absolyut qiymatiga mos keluvchi belgi asosi musbat va manfiy kod hisoblanadi?
-====
-#to'g'ri kod
-====
-aniq kod
-====
-inyersial kod
-====
-asosiy kod
-++++
-Nuqtalar o'rniga mos so'zlarni topib to'ldiring. …. ning arifimetik mantiqiy qurulmasi sonlarni uzluksiz ayrish qo'shish operatsiyalarini qisqartirish maqsadida to'g'ri, to'ldirish va teskari kodlardan foydalaniladi. 
-====
-#EHM
-====
-Axborot
-====
-Rekursiv
-====
-Inyersial
-++++
-Qanday kod xotira qurulmasida sonlarni saqlash uchun, kiritish va chiqarish qurulmalarida shuningdek, ko'paytirish amalini bajarishda qo'llaniladi?
-====
-#to'g'ri kod
-====
-aniq kod
-====
-inyersial kod
-====
-asosiy kod
-++++
-Kodlash dep nimaga aytiladi?
-====
-#obyektlarni kodli belgilash jarayoni
-====
-Kodda simvollarning joylashish tartibi 
-====
-koddagi o'rinlar soni
-====
-obyektlarni kodli belgilash qoidalari majmui
-++++
-Nuqtalar o'rniga mos so'zlarni topib to'ldiring. Kodlashning … tizimida obyektlar natural qatordagi sonlar yordamida ketma-ket nomerlanadi.
-====
-#tartibli
-====
-qator-tartibli
-====
-ketma-ket
-====
-paralell
-++++
-Nuqtalar o'rniga mos so'zlarni topib to'ldiring. … matematik kattaliklarning har oniy qiymati bir necha mashina o'zgaruvchilari orqali ifodalaniladi.
-====
-#axborotning uzlukli shaklda ifodalanishi
-====
-o'zgaruvchan uzluksiz shaklda ifodalanishi
-====
-o'zgaruvchan vaqt bo'yicha uzluksiz shaklda ifodalanishi
-====
-uzlukli ifodalanish
-++++
- Kompyuter nima? 
-====
-#Ma’lumotlar ustida turli amallar bajaruvchi kichik hajmdagi elektron hisoblash mashinasi. 
-====
-Faqat yozishga mo’ljallangan elektron hisoblash mashinasi. 
-====
- Faqat o’qish uchun mo’ljallangan elektron hisoblash mashinasi.  
-====
-Ma'lumotlarni ekranga chiqaruvchi qurilma
-++++
-Mikroprosessor nima? 
-====
-# Kompyuterlar ishini boshqaruvchi va programmalar ishini   ta’minlovchi . 
-====
- Ma’lumotlarni ekranga chiqaruvchi .  
-====
- Ma’lumotlarni xotirada saqlaydi . 
-====
-Turli ko’rinishdagi ma’lumotlarga ishlov beruvchi . 
-++++
-Kompyuter protsessori qanday vazifani bajaradi: 
-====
-#Asosiy mantiqiy va arifmetik amallarni bajaradi
-====
- Ma‟lumotlarning xotiradan olgan joyini tekshiradi 
-====
-Programmalarni ishlashini tekshiradi
-====
- Ma‟lumotlarni boshqa qurilmaga uzatadi
-++++
-Kompyuter ishlash tezligi nimaga bog‟liq:
-====
-# protsessor chastotasiga 
-====
- elektr toki kuchlanishiga 
-====
- displey ekran razmeriga 
-====
- vinchester quvvatiga
-++++
-Qattiq disk bu: 
-====
-#Kompyuterning asosiy xotirasi 
-====
-Mikroprotsessor
-====
-RW diski 
-====
-Protsessor
-++++
-Nomi, kengaytmasi va hajmiga ega bo'lgan u yoki bu turdagi axborotlarni o'zida jamlagan ob'ekt qanday nomlanadi:
-====
-# Fayl 
-====
- Yorliq 
-====
-Papka 
-====
- Dastur
-++++
-Kompyuterning tashkiliy qismlari to'g'ri berilgan javobni aniqlang
-====
-#Xotira, Protsessor, Kiritish qurilmalari, Chiqarish qurilmalari
-====
-Xotira, Qo'shimcha qurilmalar, Kiritish qurilmalari, Chiqarish qurilmalari
-====
-Xotira, Protsessor
-====
-Xotira, Monitor, Videokarta, Protsessor
-++++
-Kompyuterning asosiy vazifasini bajaruvchi protsessor nimalardan tashkil topgan?
-====
-#registrlar, buyruqlar boshqaruvchisi, buyruqlar registri
-====
-triggerlar, buyruqlar boshqaruvchisi, buyruqlar registri
-====
-registrlar, tranzistorlar
-====
-registrlar, buyruqlar boshqaruvchisi, tranzstorlar, kondensator
-++++
-Tashqi xotira qurilmalariga qaysilar kiradi
-====
-#fleshkalar, disklar, vintlar...
-====
-fleshkalar, videokartalar, vintlar...
-====
-fleshkalar, disklar, vintlar,kesh xotira...
-====
-fleshkalar, kompk disklar...
-++++
-Kompyuter ichki xotira qurilmalari to'g'ri keltirilgan javobni tanlang.
-====
-#RAM xotira, Cache xotira, ROM xotira.
-====
-RAM xotira, HDD xotira.
-====
-Cache xotira, SSD xotira.
-====
-Flesh xotira, RAM xotira, Cache xotira
-++++
-Kesh xotira-bu ... jumlani davomi to'g'ri berilgan javobni toping.
-====
-#Mikroprotsessorni ichida joylashgan bo'lib, kompyuter tezligini oshirishga xizmat qiladi. Hajmi unchalik katta emas. Lekin tezligi juda yuqori
-====
-Kompyuter tezligini oshirishga hizmat qiladi. Hajmi unchalik katta emas.
-====
-Ona plataning ichida joylashmagan bo'lib, kompyuter tezligini oshirishga hizmat qiladi. Hajmi unchalik katta emas. U operativ xotiraning statik xotirasi hisoblanadi.
-====
-Kompyuter tezligini oshirishga hizmat qiladi. Hajmi katta. U operativ xotiraning statik xotirasi hisoblanadi.
-++++
-Doimiy xotira - …… jumlani davomi to'g'ri berilgan javobni toping.
-====
-#Vinchestr. U 2 hil bo'ladi: ATA va SATA. Bu xotira energiya talab qiladi.
-====
-Kesh xotiraga o'xshash. U 2 hil bo'ladi: ATA va SATA. Bu xotira energiya talab qiladi.
-====
-Vinchestr. U 2 hil bo'ladi: ATA va SATA. Bu xotira energiya talab qilmaydi.
-====
-Vinchestr. U 1 hil bo'ladi: SATA. Bu xotira energiya talab qilmaydi.
-++++
-Kompyuter arxitekturasi- bu ?
-====
-#Kompyuterning foydalanuvchilari uchun dasturiy ta'minoti buyruqlar tizimi, adreslar tizimi, xotirani tashkil etish tizimi ba boshqalar. Kompyuter arhitekturasi kompyuterning mantiqiy uzellari orqali protsessor, tezkor xotira, tashqi xotira, ichki xotira va qo'shimcha qurilmalar.
-====
-Kompyuterning foydalanuvchilari uchun dasturi,qurilmaviy bog'liq holdagi tiaimlar, tezkor xotira, tashqi xotira, ichki xotira va qo'shimcha qurilmalar.
-====
-Kompyuterning foydalanuvchilari uchun dasturiy ta'minoti buyruqlar tizimi, adreslar tizimi, xotirani tashkil etish tizimi ba boshqalar.
-====
-Kompyuterning foydalanuvchilari uchun dasturiy ta'minoti buyruqlar tizimi, adreslar tizimi, tezkor xotira, tashqi xotira, ichki xotira va qo'shimcha qurilmalar.
-++++
-Kompyuter strukturasi- bu ?
-====
-#Kompyuterning funksional qurilmalarining o'zaro bir-biriga bog'liqligidir. Kompyuterda joylashgan barcha elementlar mantiqiy uzellar orqali ma'lum bir ketma-ketlikda o'zaro bog'liqdir.
-====
-Kompyuterning funksional qurilmalarining o'zaro bir-biriga bog'liqligidir.
-====
-Dasturiy va qurilmalar tizimining umumlashganligi.
-====
-Kompyuterning tashqi qurilmalarining o'zaro bir-biriga bog'liqligidir. Kompyuterda joylashgan barcha elementlar mantiqiy uzellar orqali ma'lum bir ketma-ketlikda o'zaro bog'liqdir.
-++++
-Registrlar-bu?
-====
-#Ma'lum bir muddat o'zida buyruqni yoki ma'lumotlarni o'zida saqlab turuvchi qurilmadir. Registrlar triggerlardan tashkil topgan.
-====
-Ma'lum bir muddat o'zida buyruqni yoki ma'lumotlarni o'zida saqlab turuvchi qurilmadir. Registrlar tranzistorlardan tashkil topgan.
-====
-Ma'lum bir muddat o'zida buyruqni yoki ma'lumotlarni o'zida saqlab turuvchi qurilmadir. Registrlar diodlardan tashkil topgan.
-====
-Ma'lum bir muddat o'zida buyruqni yoki ma'lumotlarni o'zida saqlab turuvchi qurilmadir. Registrlar triodlardan tashkil topgan.
-++++
-. ............boshqaruvchi qurilma registri bo'lib, bajarilayotgan buyruqlarni vaqt bo'yicha ketma-ketligini saqlab turuvchi qurilma.
-====
-#buyruqlar registri
-====
-Buyruqlar boshqaruvchisi
-====
-Tezkor xotira
-====
-Mantiqiy amallar registri
-++++
-Buyruqlar registrining vazifalarini sanang.
-====
-#kodlar adresini saqlash, o'zini razyadlarida operatsiyalarni saqlaydi.
-====
-O'zini razyadlarida operatsiyalarni saqlaydi.
-====
-kodlar adresini saqlash, o'zini razyadlarida operatsiyalarni saqlaydi, ekranga uzatib berish.
-====
-Buyruqlar ketma - ketligni, o'zini razyadlarida operatsiyalarni saqlaydi.
-++++
-1642 yil fransuz olimi Blez Paskal tomonidan qanday mashina yaratildi?
-====
-#Arifmetik mashina
-====
-Trigonometrik masalalarni xissoblovchi mashina
-====
-Hissoblash mashinasi
-====
-Mantiqiy amallarni bajaruvchi mashina
-++++
-1945 yil yaratilgan va hozirda ham qo'llaniladigan kompyuter arxitekturasiga kim asos solidi?
-====
-#Jon Fon Neyman
-====
-Govarda Aykena
-====
-Alan Tyuring
-====
-Konrad Suze
-++++
-Birinchi dasturlash tili kim tomonidan yaratildi.
-====
-#Jon Bekus
-====
-Jek Kilbi
-====
-Denis Ritchi
-====
-Tom Alan
-++++
-Birinchi dasturlash tili qanday nomlangan?
-====
-#Fortran tili
-====
-C tili
-====
-Basic tili
-====
-Delphi
-++++
-Intel firmasi qachon tashkil etilgan?
-====
-#1968 y
-====
-1988 y
-====
-1958 y
-====
-1948 y
-++++
-Shaxsiy kompyuter-bu..
-====
-#Bir kishi uchun mo'ljallangan va bir kishi tomonidan boshqariladigan universal mikrokompyuterlardir.
-====
-Bir inson tomonidan yaratilgan kompyuter
-====
-Foydalanuvchisi kop bo'lgan kompyuter
-====
-Tarmoqdan foydalanshda ishlatiladigan kompyuterlar
-++++
-Meynfreymlar bu ...
-====
-#Boshqaruv tizimlarini ilmiy-texnik muammolarni keng ko'lamli hal qilish uchun mo'ljallangan murakkab va qimmat mashinalardir.
-====
-Tarmoqda qo'llash uchun ishlab chiqarilgan kompyuterlar.
-====
-100 megaflops ortiq quvvatga ega bo'lgan juda kuchli kompyuterlar bo'ladi. Ular Ultrafast deyiladi.
-====
-bir kishi uchun mo'ljallangan va bir kishi tomonidan boshqariladigan universal mikrokompyuterlardir.
-++++
-Superkompyuterlar- bu...
-====
-#100 megaflops ortiq quvvatga ega bo'lgan juda kuchli kompyuterlar bo'ladi. Ular Ultrafast deyiladi.
-====
-bir kishi uchun mo'ljallangan va bir kishi tomonidan boshqariladigan universal mikrokompyuterlardir.
-====
-Tarmoqda qo'llash uchun ishlab chiqarilgan kompyuterlar.
-====
-Barcha qurilmalari juda kichik hajmda lekin unumdorligi yuqori bo'lgan kompyuterlar.
-++++
-Doimiy xotiraning asosiy vazifalari nimalardan iborat?
-====
-#kompyuter jixozlarining ishlashini tekshirish, OSni yuklashni taminlash, qurilmalarga xizmat ko'rsatish
-====
-kompyuter jixozlarining ishlashini tekshirish, qurilmalarga xizmat ko'rsatish
-====
-OSni yuklashni taminlash, qurilmalarga xizmat ko'rsatish
-====
-faqat ma'lumotlarni vaqtincha saqlaydi
-++++
-Xotira bu - ........
-====
-#Tartib raqamli kataklardan iborat
-====
-Boshqarish qurilmasi
-====
-Arifmetik-mantiqiy qurilma
-====
-Boshqarish qurilmasi, Arifmetik-mantiqiy qurilma
-++++
-Protsessor bu - ....... dan tashkil topgan.
-====
-#Boshqarish qurilmasi, arifmetik-mantiqiy qurilma
-====
-Boshqarish qurilmasi
-====
-Arifmetik-mantiqiy qurilma
-====
-Tartib raqamli kataklar
-++++
-Tashqi xotira qurilmalariga qaysilar kiradi?
-====
-#Fleshka, disklar, vintchestorlar
-====
-Fleshka, disklar, vintchestorlar,  kesh xotira
-====
-Fleshka, kompak disklar
-====
-Fleshka, vintchestorlar
-++++
-Kompyuterning buyruqlarini bajaruvchi qismi nima deb ataladi?
-====
-#Arifmetik-mantiqiy qurilma
-====
-Boshqarish qurilmasi
-====
-Arifmetik-mantiqiy qurilma, Boshqarish qurilmasi
-====
-Registr
-++++
-Barcha amallarni bajarishda qatnashadigan arifmetik-mantiqiy qurilma registri qaysi?
-====
-#Summator
-====
-Buyruqlar shotchigi
-====
-Summator, Buyruqlar shotchigi
-====
-Buyruqlar registri
-++++
-Mikroprotsessor tezligi qanday o'lchanadi?
-====
-#Megagers(Mgs) sekundlarda
-====
-Gigagers(Ggs) sekundlarda
-====
-Zetagers(Zgs) sekundlarda
-====
-Milkrogers(Mgs) sekundlarda
-++++
-Protsessor nimalardan tashkil topgan?
-====
-#maxsus kristalli yarim o'tkazgich, provodkalar
-====
-maxsus kristalli o'tkazgich,provodkalar
-====
-maxsus kristalli yarimo'tkazgich
-====
-o'tkazgichlardan
-++++
-Qattiq disk qanday qurilmalardan tashkil tolgan?
-====
-#magnit vosita, disk, diskni aylantiruvchi mexanizmlar
-====
-disk va o'q
-====
-magnit kallak va disk
-====
-faqat bir dona disk joylashadi
-++++
-ROM xotirada qanday amallarni bajarib bo'lmaydi?
-====
-#yozish
-====
-o'qish
-====
-ko'chirish va o'qish
-====
-yozish va o'qish
-++++
-ROM xotiraning asosiy vazifalari nimalardan iborat?
-====
-#kompyuter jixozlarining ishlashini tekshirish,OSni yuklashni taminlash,qurilmalarga xizmat ko'rsatish
-====
-kompyuter jixozlarining ishlashini tekshirish,qurilmalarga xizmat ko'rsatish
-====
-Osni yuklashni taminlash,qurilmalarga xizmat ko'rsatish
-====
-faqat ma'lumotlarni vaqtincha saqlaydi
-++++
-Mini kompyuterlar-…
-====
-#o'lchami va bajaradigan amallar xajmi jixatidan juda kichik qurilma
-====
-o'lchami jixatidan juda kichik qurilma
-====
-ishlash tezligi past qurilma
-====
-xotira xajmi kichik bo'lan qurilma
-++++
-Sekundiga o'n trillion amal bajara oladigan kompyuterlar
-====
-#supperkompyuterlar
-====
-noutbuklar
-====
-maxsus yig'ilgan kompyuterlar
-====
-bunday qurilma mavjud emas
-++++
-Mikroprotsessor(MP) nima?
-====
-#funksional tugallangan, programma orqali boshqariladigan qurilma
-====
-programma orqali boshqariladigan qurilma
-====
-portlardan iborat qurilma
-====
-ulanishlarni boshqaruvchi qurilma
-++++
-Birinchi mikroprotsessor qachon ishlab chiqarilgan?
-====
-#1971-yil.
-====
-1981-yil
-====
-1972-yil
-====
-1982-yil
-++++
-Birinchi mikroprotsessor ning nomi?
-====
-#Intel(AQSh) firmasida 4004
-====
-Intel(AQSh) 404
-====
-Intel(AQSh) 4000
-====
-Intel(AQSh) 4040
-++++
-Registr so'zining ma'nosi?
-====
-#ingilizcha, yozuv jurnali.
-====
-fransuzcha, yozuv jurnali
-====
-fransuzcha, ma'lumotnoma
-====
-lotincha, ma'lumotnoma
-++++
-Registrlarda axborot qanday ko'rinishda saqlanadi?
-====
-#0 va 1 raqamli kombinatsiya ko'rinishida
-====
-istalgan ko'rinishda
-====
-alifbo tartibida
-====
-sinxronlashtirilgan ketma ketlik ko'rinishida
-++++
-Registrlar nimalardan tashkil topgan?
-====
-#triggerlardan
-====
-atributlardan
-====
-shinalardan
-====
-yascheykalardan
-++++
-Sonlar registrga qanday usullarda yoziladi?
-====
-#parallel va ketma-ket
-====
-kamayish tartibida
-====
-ortib borish tartibida
-====
-katma-ket
-++++
-Kesh xotira qanday maqsadda ishlatiladi?
-====
-#kompyuterning ishlash tezligini oshiradi
-====
-rasmlar,videolar va fayllarni vaqtincha saqlaydi
-====
-rasmlar,videolar va fayllarni kompyuter ishlashi davomida saqlaydi
-====
-kompyuterni ishlash tezligini pasaytiruvchi xotira qism
-++++
-Printer nima?
-====
-#Ma'lumotlarni qog'ozga chiqaruvchi qurilma
-====
-Kompyuterdagi matn rasm slayd fotosurat ko’rinishidan foydalangan tasvirlar va boshqa grafika axborotlarni avtomatik ravishda kiritish muljallangan qurilmadir.
-====
-Telefon tarmog‘i orqali kompyuter bilan aloqa qilish imkonini beruvchi qurilmadir.
-====
-Ma'lumotlarni ekranga chiqaruvchi qurilma
-++++
-Skayner nima?
-====
-#Kompyuterdagi matn rasm slayd fotosurat ko’rinishidan foydalangan tasvirlar va boshqa grafika axborotlarni avtomatik ravishda kiritish muljallangan qurilmadir.
-====
-Ma'lumotlarni qog'ozga chiqaruvchi qurilma
-====
-Telefon tarmog‘i orqali Kompyuter bilan aloqa qilish imkonini beruvchi qurilmadir.
-====
-Ma'lumotlarni ekranga uzatuvchi qurilma
-++++
-Modem nima?
-====
-#Telefon tarmog‘i orqali kompyuter bilan aloqa qilish imkonini beruvchi qurilmadir.
-====
-Kompyuterdagi matn rasm slayd fotosurat ko’rinishidan foydalangan tasvirlar va boshqa grafika axborotlarni avtomatik ravishda kiritish muljallangan qurilmadir.
-====
-Ma'lumotlarni qog'ozga chiqaruvchi qurilma
-====
-Ma'lumotlarni ekranga uzatuvchi qurilma
-++++
-Turlari bo'yicha printerni nomlari to’g’ri korsatilgan qatorni tanlang?
-====
-#matritsali, purkovchi, lazerli
-====
-purkovchi,lazerli,chizgili
-====
-tarmoqli,purkovchi,lazerli
-====
-purkovchi,lazerli
-++++
-Videomonitor (displey) nima?
-====
-#shaxsiy kompyuterga kiritilayotgan va undan chiqarilayotgan ma’lumotlarni aks yettirish qurilmasidir.
-====
-Shaxsiy  kompyuterga sonli, matnli va boshqaruvchi axborotni qo’lda kiritish uchun qurilma;
-====
-Planshet bo’yicha maxsus ko’rsatkichni (peroni) harakatlantirish yo’li bilan grafik ma’lumotlarni, tasvirlarni qo’lda kiritish uchun pero siljiganda uning koordinatalari uqiladi va bu ma’lumotlar shaxsiy kompyuterga kiritiladi; 
-====
-Ma'lumotlarni qog'ozga chiqaruvchi qurilma
-++++
-Klaviatura nima?
-====
-#Shaxsiy  kompyuterga sonli, matnli va boshqaruvchi axborotni qo’lda kiritish uchun qurilma;
-====
-shaxsiy kompyuterga kiritilayotgan va undan chiqarilayotgan ma’lumotlarni aks yettirish qurilmasidir.
-====
-Planshet bo’yicha maxsus ko’rsatkichni (peroni) harakatlantirish yo’li bilan grafik ma’lumotlarni, tasvirlarni qo’lda kiritish uchun pero siljiganda uning koordinatalari uqiladi va bu ma’lumotlar shaxsiy kompyuterga kiritiladi; 
-====
-Telefon tarmog‘i orqali kompyuter bilan aloqa qilish imkonini beruvchi qurilmadir.
-++++
-Grafik planshetlar (digitayzerlar) nima?
-====
-#Planshet bo’yicha maxsus ko’rsatkichni (peroni) harakatlantirish yo’li bilan grafik ma’lumotlarni, tasvirlarni qo’lda kiritish uchun pero siljiganda uning koordinatalari uqiladi va bu ma’lumotlar shaxsiy kompyuterga kiritiladi; 
-====
-Shaxsiy  kompyuterga sonli, matnli va boshqaruvchi axborotni qo’lda kiritish uchun qurilma;
-====
-shaxsiy kompyuterga kiritilayotgan va undan chiqarilayotgan ma’lumotlarni aks yettirish qurilmasidir.
-====
-Telefon tarmog‘i orqali kompyuter bilan aloqa qilish imkonini beruvchi qurilmadir.
-++++
-Grafik ko’ruvchilar (plotterlar) — 
-====
-#Grafik ma’lumotni (grafiklar, chizmalar, rasmlar) Shahsiy Kompyuter dan qog’ozdagi tashuvchiga chiqarish uchun foydalaniladigan qurilmadir.
-====
-Planshet bo’yicha maxsus ko’rsatkichni (peroni) harakatlantirish yo’li bilan grafik ma’lumotlarni, tasvirlarni qo’lda kiritish uchun pero siljiganda uning koordinatalari uqiladi va bu ma’lumotlar Shahsiy Kompyuterga kiritiladi; 
-====
-Shahsiy  kompyuterga sonli, matnli va boshqaruvchi axborotni qo’lda kiritish uchun qurilma;
-====
-Shahsiy Kompyuterga kiritilayotgan va undan chiqarilayotgan ma’lumotlarni aks yettirish qurilmasidir.
-++++
-Nuqtalar o'rniga kerakli so'zni qo'ying. Grafik ko’ruvchilar yani ……… lardir.
-====
-# plotter
-====
-digittayzerlar
-====
-planshetlar
-====
-printerlar
-++++
-Ma’lumotlarni audio — (nutqli) va videokiritish va chiqarish qurilmalari  qanday vositalar tukumiga kiradi?
-====
-#Multimedia vositalariga
-====
-Yetkazish vositalariga
-====
-Qabul qilish vositalariga
-====
-kuchaytirgichli
-++++
-Akustik tizimlar yani … ?
-====
-#Kalonkalar
-====
-interfeysli plata
-====
-Grafikli planshetlar
-====
-digittayzerlar
-++++
-Printer kashfiyotchisi?
-====
-#Charliz Bebbidj
-====
-Daron Suoda
-====
-Stiv Jobs
-====
-Carlson Chester 
-++++
-Bit/sekund uchun to'g'ri ta'rifni korsating? 
-====
-#Bir soniyada aloqa muhiti orqali uzatiladigan bitlar soni
-====
-bir soniyada aloqa muhiti orqali uzatiladigan minglab yaxlitlangan bitlar soni
-====
-bir soniyada aloqa muhiti orqali uzatiladigan millionlab yaxlitlangan bitlar soni
-====
-bir soniyada aloqa muhiti orqali uzatiladigan milliardlab yaxlitlangan bitlar soni
-++++
-Kbit/sekund uchun to'g'ri ta'rifni korsating? 
-====
-#bir soniyada aloqa muhiti orqali uzatiladigan minglab yaxlitlangan bitlar soni
-====
-bir soniyada aloqa muhiti orqali uzatiladigan milliardlab yaxlitlangan bitlar soni
-====
-bir soniyada aloqa muhiti orqali uzatiladigan millionlab yaxlitlangan bitlar soni
-====
-Bir soniyada aloqa muhiti orqali uzatiladigan bitlar soni
-++++
-Mbit/sekund uchun to'g'ri ta'rifni korsating? 
-====
-#bir soniyada aloqa muhiti orqali uzatiladigan millionlab yaxlitlangan bitlar soni
-====
-bir soniyada aloqa muhiti orqali uzatiladigan milliardlab yaxlitlangan bitlar soni
-====
-bir soniyada aloqa muhiti orqali uzatiladigan minglab yaxlitlangan bitlar soni
-====
-Bir soniyada aloqa muhiti orqali uzatiladigan bitlar soni
-++++
-Gbit/sekund uchun to'g'ri ta'rifni korsating? 
-====
-#bir soniyada aloqa muhiti orqali uzatiladigan milliardlab yaxlitlangan bitlar soni
-====
-bir soniyada aloqa muhiti orqali uzatiladigan minglab yaxlitlangan bitlar soni
-====
-bir soniyada aloqa muhiti orqali uzatiladigan millionlab yaxlitlangan bitlar soni
-====
-Bir soniyada aloqa muhiti orqali uzatiladigan bitlar soni
-++++
-Modulyator-demodulyator so‘zlarining qisqartmasidan olingan qurilma?
-====
-#modem
-====
-peron
-====
-Digittayzer
-====
-kolonka
-++++
